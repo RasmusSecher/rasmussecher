@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Rasmus Secher
-I am a computer science student in Aalborg, finishing my bachelor this summer. I enjoy working with full stack projects, primarily using Django and HTML/CSS. 
+I am a computer science student in Aalborg, finishing my bachelor this summer. 
+I enjoy working with full stack projects, primarily using Django and HTML/CSS. 
 
 
 
