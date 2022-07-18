@@ -4,6 +4,4 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/rasmussecher)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rasmussecher)  
-
 ![Profile views](https://gpvc.arturio.dev/rasmussecher)  
